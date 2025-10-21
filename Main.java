@@ -4,6 +4,6 @@ public class Main {
     }
 
     public static int getColour() {
-        return 0;
+        return 1;
     }
 }
