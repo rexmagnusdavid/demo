@@ -3,7 +3,7 @@ public class Main {
         System.out.println("Hello world!");
     }
 
-    public static int getColor() {
+    public static int getColour() {
         return 1;
     }
 }
